@@ -1,0 +1,12 @@
+Flask
+flask_restful
+flask_cors
+pandas
+nltk
+corpus
+sklearn
+preprocessing
+scikit-learn
+requests
+bs4
+uwsgi
